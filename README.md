@@ -56,4 +56,7 @@ React advantages:
 
 ## Create first app
 
+1. npx create-react-app my-app
+1. cd my-app
+1. npm start
 
