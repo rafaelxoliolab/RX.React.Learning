@@ -1,9 +1,18 @@
 import React from 'react';
+import { useState } from 'react';
 
 export function Welcome(){
-    return (
+    const [counter, setCounter] = useState(0);
 
+
+    return (
+        <div>
         <p>Welcome to React</p>
+        <br/>
+        <div>The number of counter is {counter}</div>
+        <button type='submit' onClick={()=>setCounter(counter+1)}>Sum</button>
+        </div>
+
 
     );
 }

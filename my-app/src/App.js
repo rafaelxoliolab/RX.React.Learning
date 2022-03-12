@@ -1,8 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import {Welcome, WelcomeProps, WelcomeTwoProps} from './components/Welcome';
-/* import WelcomeProps from './components/WelcomeProps';
-import WelcomeTwoProps from './components/WelcomeTwoProps'; */
+
 
 function App() {
   return (
@@ -18,12 +17,15 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           <Welcome></Welcome>
-           <WelcomeProps message='React training'></WelcomeProps>
-          <WelcomeTwoProps name='Rafa' message='Welcome to React'></WelcomeTwoProps>
         </a>
       </header>
-     
+      <main>
+      <div>
+          <Welcome></Welcome>
+          <WelcomeProps message='React training'></WelcomeProps>
+          <WelcomeTwoProps name='Rafa' message='Welcome to React'></WelcomeTwoProps>
+        </div>
+      </main>
     </div>
   );
 }
