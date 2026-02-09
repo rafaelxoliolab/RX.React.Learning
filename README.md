@@ -24,15 +24,15 @@ This is a basic example for starting with basic programming with React.
 * Download Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com/download)
 
 * Install Extensions:
+  * Material Icon Theme (Add Icons for different file types)
+  * Prettier code formatter
   * Bracket Pair Colorized (Colorizes the code of React)
   * ES7+ React/Redux/React-NAtive snippets (Snippets for React code)
   * ES Lint (Indent code)
   * GitLens
   * HTML Snippets
   * Intellisense for CSS Class name in HTML
-  * Material Icon Theme (Add Icons for different file types)
   * Path Intellisense
-  * Pretty code formatter
   * React Native Tools
   * Simple React Snippets
   * Typescript React code Snippets
@@ -47,6 +47,11 @@ React points:
 * React is not a framework
 * UI in frontend
 * React reutilize components
+
+## Creating First Project
+
+- Go to [Vite.dev](https://vite.dev/)
+- 
 
 React advantages:
 * Dynamic Virtual DOM
