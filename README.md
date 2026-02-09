@@ -48,14 +48,15 @@ React points:
 * UI in frontend
 * React reutilize components
 
-## Creating First Project
-
-- Go to [Vite.dev](https://vite.dev/)
-- 
-
 React advantages:
 * Dynamic Virtual DOM
 * ES6
 * Scalability
 * React Native to create mobile aplications
 * Used by Google, Tesla among others
+
+## Creating First Project with Vite
+
+- Go to [Vite.dev](https://vite.dev/)
+- Click Get Started
+- 
