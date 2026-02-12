@@ -1,3 +1,6 @@
+# REACT Learning
+By Rafael Xolio
+
 ## Starting programing with React
 
 This is a basic example for starting with basic programming with React.
@@ -59,4 +62,14 @@ React advantages:
 
 - Go to [Vite.dev](https://vite.dev/)
 - Click Get Started
-- 
+- Copy npmcommand
+- <img width="766" height="350" alt="image" src="https://github.com/user-attachments/assets/ed7888dc-0b35-45dd-86a6-5dbad651d17c" />
+- Open VS Code
+- Open a folder
+- Open a terminal
+- Run npm command "npm create vite@latest"
+
+<img width="814" height="140" alt="image" src="https://github.com/user-attachments/assets/4e716a61-bce0-4ae9-862f-b4c98b3175cd" />
+<img width="410" height="419" alt="image" src="https://github.com/user-attachments/assets/47de5918-8ec0-46b3-8794-2912b93b20f7" />
+
+
